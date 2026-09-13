@@ -1,0 +1,21 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "name": "A Normalized State-Space Formulation of Stress-Gated Flocking Coordination in Cyber-Physical Energy Systems",
+  "author": [
+    {
+      "@type": "Person",
+      "givenName": "Attila",
+      "familyName": "Kovari",
+      "@id": "https://orcid.org/0000-0003-3521-4757"
+    },
+    {
+      "@type": "Person",
+      "givenName": "David",
+      "familyName": "Raisz",
+      "@id": "https://orcid.org/0000-0001-7266-7363"
+    }
+  ],
+  "creativeWorkStatus": "manuscript under revision",
+  "description": "Manuscript under revision for Results in Engineering"
+}

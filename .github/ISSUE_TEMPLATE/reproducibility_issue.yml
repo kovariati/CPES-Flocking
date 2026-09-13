@@ -1,0 +1,18 @@
+name: Reproducibility issue
+description: Report a numerical or environment mismatch
+title: "[Reproducibility] "
+body:
+  - type: textarea
+    id: environment
+    attributes:
+      label: Software version and environment
+      description: Include Python, NumPy, OS and exact command.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Expected and observed result
+      description: Include scenario, mode, topology, seed and changed parameters.
+    validations:
+      required: true

@@ -1,0 +1,81 @@
+{
+  "canonical": {
+    "seed": 42,
+    "graph": "chain",
+    "steps": {
+      "zero": 300,
+      "full": 100,
+      "partial": 200
+    },
+    "modes": [
+      "standard",
+      "gate_only",
+      "decay_only",
+      "gated"
+    ]
+  },
+  "sensitivity": {
+    "design": "one-at-a-time; base values repeated for each parameter",
+    "kappa": [
+      0.1,
+      0.2,
+      0.4
+    ],
+    "eps_s": [
+      0.05,
+      0.1,
+      0.2
+    ],
+    "w_s": [
+      0.25,
+      0.5,
+      0.75
+    ],
+    "beta_rest": [
+      0.1,
+      0.2,
+      0.5
+    ],
+    "stress_tol": [
+      0.0001,
+      0.001,
+      0.01
+    ],
+    "dt": [
+      0.5,
+      1,
+      1.5
+    ]
+  },
+  "monte_carlo": {
+    "seeds": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "topologies": [
+      "chain",
+      "ring",
+      "star",
+      "complete",
+      "branched"
+    ],
+    "disturbances": [
+      "zero",
+      "partial"
+    ],
+    "modes": [
+      "standard",
+      "gated"
+    ],
+    "steps_per_trajectory": 2100,
+    "perturb_all_initial_states": true
+  }
+}

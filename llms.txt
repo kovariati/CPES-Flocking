@@ -1,0 +1,7 @@
+# Stress-Gated Flocking Coordination in CPES
+
+Version 1.1.0; prepared revision source. Related manuscript: A Normalized State-Space Formulation of Stress-Gated Flocking Coordination in Cyber-Physical Energy Systems, by Attila Kovari and David Raisz. No article DOI is assigned in this record.
+
+Repository: https://github.com/kovariati/Numerical-Illustration-for-Flocking-Based-Coordination-of-Heterogeneous-Units-in-CPES
+
+Read README.md for scientific scope, README_RUNNING.md for execution, CITATION.cff for software citation, and docs/METHOD_TO_CODE_MAP.md for equation mapping. All data are synthetic. The experiments do not validate a deployable CPES controller. This is an optional plain-text index, not a discovery or ranking guarantee.

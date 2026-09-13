@@ -1,0 +1,54 @@
+{
+  "@context": [
+    "https://schema.org",
+    "https://w3id.org/codemeta/3.1"
+  ],
+  "@type": "SoftwareSourceCode",
+  "name": "Stress-Gated Flocking Coordination in CPES",
+  "version": "1.1.0",
+  "codeRepository": "https://github.com/kovariati/Numerical-Illustration-for-Flocking-Based-Coordination-of-Heterogeneous-Units-in-CPES",
+  "license": "https://spdx.org/licenses/MIT",
+  "programmingLanguage": "Python",
+  "runtimePlatform": "Python 3.12",
+  "author": [
+    {
+      "@type": "Person",
+      "givenName": "Attila",
+      "familyName": "Kovari",
+      "@id": "https://orcid.org/0000-0003-3521-4757"
+    }
+  ],
+  "keywords": [
+    "stress-gated flocking",
+    "cyber-physical energy systems",
+    "normalized behavioral state",
+    "anti-consensus",
+    "graph-based coordination",
+    "soft-normalized drives",
+    "actuator heterogeneity",
+    "distributed energy resources",
+    "reproducibility"
+  ],
+  "developmentStatus": "prepared revision source; GitHub tag not asserted",
+  "citation": {
+    "@context": "https://schema.org",
+    "@type": "ScholarlyArticle",
+    "name": "A Normalized State-Space Formulation of Stress-Gated Flocking Coordination in Cyber-Physical Energy Systems",
+    "author": [
+      {
+        "@type": "Person",
+        "givenName": "Attila",
+        "familyName": "Kovari",
+        "@id": "https://orcid.org/0000-0003-3521-4757"
+      },
+      {
+        "@type": "Person",
+        "givenName": "David",
+        "familyName": "Raisz",
+        "@id": "https://orcid.org/0000-0001-7266-7363"
+      }
+    ],
+    "creativeWorkStatus": "manuscript under revision",
+    "description": "Manuscript under revision for Results in Engineering"
+  }
+}
