@@ -6,8 +6,6 @@ Code, synthetic results, and reproducibility tools for "A Normalized State-Space
 
 **Canonical repository:** https://github.com/kovariati/Numerical-Illustration-for-Flocking-Based-Coordination-of-Heterogeneous-Units-in-CPES
 
-**Software author:** Attila Kovari, [ORCID](https://orcid.org/0000-0003-3521-4757). **Article coauthor:** David Raisz, [ORCID](https://orcid.org/0000-0001-7266-7363).
-
 Citation exports: [CITATION.cff](CITATION.cff), [BibTeX](CITATION.bib), [RIS](CITATION.ris). Cite the software version when reusing code; cite the manuscript for the mathematical formulation, updating its citation when publication metadata becomes available.
 
 ## What the formulation does
