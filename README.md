@@ -4,8 +4,6 @@ Code, synthetic results, and reproducibility tools for "A Normalized State-Space
 
 **Software version:** 1.1.0. This source snapshot is prepared for the revision. No article DOI, acceptance, published release, or archive DOI is claimed.
 
-**Canonical repository:** https://github.com/kovariati/Numerical-Illustration-for-Flocking-Based-Coordination-of-Heterogeneous-Units-in-CPES
-
 Citation exports: [CITATION.cff](CITATION.cff), [BibTeX](CITATION.bib), [RIS](CITATION.ris). Cite the software version when reusing code; cite the manuscript for the mathematical formulation, updating its citation when publication metadata becomes available.
 
 ## What the formulation does
