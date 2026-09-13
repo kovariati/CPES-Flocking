@@ -2,8 +2,6 @@
 
 Code, synthetic results, and reproducibility tools for "A Normalized State-Space Formulation of Stress-Gated Flocking Coordination in Cyber-Physical Energy Systems".
 
-**Software version:** 1.1.0. This source snapshot is prepared for the revision. No article DOI, acceptance, published release, or archive DOI is claimed.
-
 Citation exports: [CITATION.cff](CITATION.cff), [BibTeX](CITATION.bib), [RIS](CITATION.ris). Cite the software version when reusing code; cite the manuscript for the mathematical formulation, updating its citation when publication metadata becomes available.
 
 ## What the formulation does
