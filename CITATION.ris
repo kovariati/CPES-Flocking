@@ -3,14 +3,14 @@ AU  - Kovari, Attila
 AU  - Raisz, David
 TI  - A Normalized State-Space Formulation of Stress-Gated Flocking Coordination in Cyber-Physical Energy Systems
 PY  - 2026
-N1  - Manuscript under revision for Results in Engineering
+N1  - Manuscript under revision
 ER  -
 
 TY  - COMP
 AU  - Kovari, Attila
 TI  - Stress-Gated Flocking Coordination in CPES
 PY  - 2026
-ET  - 1.1.0
-UR  - https://github.com/kovariati/Numerical-Illustration-for-Flocking-Based-Coordination-of-Heterogeneous-Units-in-CPES
+ET  - 1.0.0
+UR  - https://github.com/kovariati/CPES-FLocking
 N1  - Prepared revision source snapshot
 ER  -
