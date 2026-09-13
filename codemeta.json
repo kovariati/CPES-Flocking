@@ -5,7 +5,7 @@
   ],
   "@type": "SoftwareSourceCode",
   "name": "Stress-Gated Flocking Coordination in CPES",
-  "version": "1.1.0",
+  "version": "1.0.0",
   "codeRepository": "https://github.com/kovariati/Numerical-Illustration-for-Flocking-Based-Coordination-of-Heterogeneous-Units-in-CPES",
   "license": "https://spdx.org/licenses/MIT",
   "programmingLanguage": "Python",

@@ -6,7 +6,7 @@ On Windows PowerShell, create the environment with `py -3.12 -m venv .venv` and 
 
 ## Execution
 
-Run commands from the repository root. `python demo.py` is an alias for the canonical suite. The replacement entry point exports results by default; the former v1.0.0 `--export` option is no longer required.
+Run commands from the repository root. `python demo.py` is an alias for the canonical suite. The current entry point exports results by default; the earlier `--export` option is no longer required.
 
 ```bash
 python scripts/reproduce.py --suite canonical --output rerun/results
@@ -25,4 +25,4 @@ Topology trials: five explicitly defined graphs, ten seeds 0 through 9, zero and
 
 ## Numerical reproducibility
 
-The target is clipped before the target-minus-state error. This order differs from v1.0.0 when the requested target exceeds a unit's capability. Long clipped trajectories can be sensitive to floating-point details. The shipped hashes verify the supplied bytes; canonical regenerated CSV validation uses rtol=1e-7 and atol=1e-9. Any mismatch must be reported with the environment and result files, not hidden by changing the tolerance. For long-horizon sensitivity or topology differences, compare reproducible metrics and the recorded environment before interpreting a failed byte comparison.
+The target is clipped before the target-minus-state error. This corrected order applies throughout version 1.0.0. Long clipped trajectories can be sensitive to floating-point details. Canonical regenerated CSV validation uses rtol=1e-7 and atol=1e-9. Any numerical mismatch must be reported with the environment and result files, not hidden by changing the tolerance. For long-horizon sensitivity or topology differences, compare reproducible metrics and the recorded environment before interpreting a failed comparison.

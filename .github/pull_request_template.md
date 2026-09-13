@@ -1,1 +1,1 @@
-Describe the mathematical or reproducibility issue, the change, and the evidence used to validate it. State whether canonical numerical results or manuscript claims change. Update the method map, changelog and checksums when necessary.
+Describe the mathematical or reproducibility issue, the change, and the evidence used to validate it. State whether canonical numerical results or manuscript claims change. Update the method map and changelog when necessary.
