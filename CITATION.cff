@@ -2,9 +2,9 @@ cff-version: 1.2.0
 message: "Cite this software version when reusing code; cite the associated manuscript for the formulation. Publication metadata is pending."
 title: "Stress-Gated Flocking Coordination in CPES"
 type: software
-version: "1.1.0"
+version: "1.0.0"
 license: MIT
-repository-code: "https://github.com/kovariati/Numerical-Illustration-for-Flocking-Based-Coordination-of-Heterogeneous-Units-in-CPES"
+repository-code: "https://github.com/kovariati/CPES-Flocking"
 authors:
   - family-names: "Kovari"
     given-names: "Attila"
