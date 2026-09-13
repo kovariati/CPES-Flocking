@@ -1,6 +1,6 @@
 # A Normalized State-Space Formulation of Stress-Gated Flocking Coordination in Cyber-Physical Energy Systems
 
-Companion source code, synthetic results, and reproducibility tools for the manuscript by Attila Kovari and David Raisz, under revision for Results in Engineering.
+Code, synthetic results, and reproducibility tools for "A Normalized State-Space Formulation of Stress-Gated Flocking Coordination in Cyber-Physical Energy Systems".
 
 **Software version:** 1.1.0. This source snapshot is prepared for the revision. No article DOI, acceptance, published release, or archive DOI is claimed.
 
